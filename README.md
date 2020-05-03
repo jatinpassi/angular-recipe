@@ -1,1 +1,1 @@
-# recipe
+Angular recipe project
